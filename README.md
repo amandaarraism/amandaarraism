@@ -13,5 +13,5 @@
 💭 A framework for writing software documentation for an API as a technical writer, using Postman or Swagger UI. Udemy<br/>
 💭 UX Writing: Writing for users. Alura<br/>
 💭 Corporate Strategy and Project Management.  Universidade Presbiteriana Mackenzie<br/>
-💭 International English proficiency certificate - Cambridge, 2022. C1 Level<br/>
+💭 International English proficiency certificate C1 Level. Cambridge <br/>
 
